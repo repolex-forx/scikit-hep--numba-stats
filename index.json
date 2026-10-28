@@ -1,0 +1,11 @@
+{
+  "org": "scikit-hep",
+  "repo": "numba-stats",
+  "versions": [
+    {
+      "commit": "5a97575a4424d68955dfffaf254564ffbc496508",
+      "tag": "",
+      "parsed_at": "2026-10-28T14:23:38.987996+00:00"
+    }
+  ]
+}
